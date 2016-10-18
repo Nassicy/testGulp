@@ -1,0 +1,39 @@
+{
+  "name": "testgulp",
+  "version": "1.0.1",
+  "description": "测试��gulp插件的使用",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.17.3",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "gulp-watch-path": "^0.1.0",
+    "stream-combiner2": "^1.1.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-file-include": "^1.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass-china": "^2.3.1",
+    "gulp-sourcemaps": "^2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nassicy/testGulp.git"
+  },
+  "keywords": [
+    "test",
+    "gulp"
+  ],
+  "author": "wqx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nassicy/testGulp/issues"
+  },
+  "homepage": "https://github.com/Nassicy/testGulp#readme"
+}
